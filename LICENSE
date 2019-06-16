@@ -1,3 +1,5 @@
-This repo includes data from FiveThirtyEight.
+Unisex Names data (unisex_names_table.csv)
+Original file downloaded from https://github.com/fivethirtyeight/data/tree/master/unisex-names. Data is used is licensed under [CC-BY](https://github.com/fivethirtyeight/data/blob/master/LICENSE) via https://github.com/fivethirtyeight/data by FiveThirtyEight.
 
-The FiveThirtyEight data is licensed and used under CC-BY via https://github.com/fivethirtyeight/data. See https://github.com/fivethirtyeight/data/blob/master/LICENSE for license details.
+"2013 On Track - Individual Year 12 Student Completers" (dv164-ontrackyear12orequivcompleters2013.csv and on_track_survey.db)
+Original file downloaded from https://discover.data.vic.gov.au/dataset/2013-on-track-individual-year-12-student-completers. Data is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) by Department of Education and Training (State Government of Victoria).
